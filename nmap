@@ -1,0 +1,2 @@
+#Show version (-sV), Scan all ports (-p-)
+nmap -sV -p- $ip 
